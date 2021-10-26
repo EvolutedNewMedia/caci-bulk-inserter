@@ -1,3 +1,7 @@
+# 🚨 Discontinued 🚨
+Please consider using an [alternative package](https://github.com/mavinoo/laravelBatch).
+
+
 # Bulk Inserter
 
 _Note: This helper library is currently specific to the Laravel framework running with a 
